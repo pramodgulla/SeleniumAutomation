@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Title Matched]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Title Matched]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add Employee]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26454" started-at="2018-05-22T19:47:18Z" finished-at="2018-05-22T19:47:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26454" started-at="2018-05-22T19:47:18Z" finished-at="2018-05-22T19:47:45Z">
+      <class name="com.hrms.testscripts.TC_101">
+        <test-method status="PASS" signature="tc_101()[pri:0, instance:com.hrms.testscripts.TC_101@df8f5e]" name="tc_101" duration-ms="26437" started-at="2018-05-22T15:47:18Z" finished-at="2018-05-22T15:47:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Title Matched]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Title Matched]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add Employee]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_101 -->
+      </class> <!-- com.hrms.testscripts.TC_101 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
